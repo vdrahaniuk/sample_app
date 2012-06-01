@@ -9,6 +9,7 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3', '1.3.5', :group => :development
 gem 'mysql2', :group => :production
+gem 'gravatar_image_tag', '1.1.2'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
